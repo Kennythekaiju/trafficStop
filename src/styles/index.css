@@ -10,3 +10,47 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.pole{
+    margin:auto;
+    text-align: center;
+    width:15px;
+    height:150px;
+    background:black;
+}
+.lightBox{
+    padding:10px;
+    margin:auto;
+    background: black;
+    width:125px;
+    height:300px;
+    border-radius:10px;
+}
+.red-light{
+    border-color:black;
+    border-style:solid;
+    margin:auto;
+    border-radius: 100%;
+    background:red;
+    width:90px;
+    height: 90px;
+}
+.yellow-light{
+    border-color:black;
+    border-style:solid;
+    margin:auto;
+    border-radius: 100%;
+    background:yellow;
+    width:90px;
+    height: 90px;
+}
+.green-light{
+    border-color:black;
+    border-style:solid;
+    margin:auto;
+    border-radius: 100%;
+    background:green;
+    width:90px;
+    height: 90px;
+}
+
+
